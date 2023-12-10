@@ -252,6 +252,10 @@ def test_score_count():
     assert sb.score_image.get_width() > 0
 ```
 
+运行截图：
+
+![测试结果](./img/1.png)
+
 ### 单元测试用例
 
 | \#  | 测试目标 | 输入 | 预期结果 | 测试结果 |
